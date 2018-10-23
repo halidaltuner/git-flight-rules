@@ -1,11 +1,11 @@
-# Flight rules for Git
+# Git için uçuş kuralları
 
 🌍
-*[English](README.md) ∙ [Español](README_es.md)  ∙  [Русский](README_ru.md) ∙ [简体中文](README_zh-CN.md)∙ [한국어](README_kr.md)*
+*[English](README.md) ∙ [Español](README_es.md)  ∙  [Русский](README_ru.md) ∙ [简体中文](README_zh-CN.md)∙ [한국어](README_kr.md)* ∙ [Turkish](README_tr.md)
 
-#### What are "flight rules"?
+#### "Uçuş Kuralları" Nedir?
 
-A [guide for astronauts](https://www.jsc.nasa.gov/news/columbia/fr_generic.pdf) (now, programmers using Git) about what to do when things go wrong.
+Astronotlar için işler ters gidince ne yapılacağı hakkında [bir rehber](https://www.jsc.nasa.gov/news/columbia/fr_generic.pdf) (şimdi, Git'i kullanan programcılar)
 
 >  *Flight Rules* are the hard-earned body of knowledge recorded in manuals that list, step-by-step, what to do if X occurs, and why. Essentially, they are extremely detailed, scenario-specific standard operating procedures. [...]
 
